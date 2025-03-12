@@ -30,5 +30,11 @@ function loginUserMassage(username){
     return `${username} just logged in`
 }
 // console.log(loginUserMassage("Atul"));
-console.log(loginUserMassage());
+// console.log(loginUserMassage());
+
+function calculatCartPrice(...num1){
+    return num1 
+}
+console.log(calculatCartPrice(200, 300, 400));
+
 
