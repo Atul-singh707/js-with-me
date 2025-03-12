@@ -1,10 +1,10 @@
 
-// function sayMyName (){
-//     console.log("A");
-//     console.log("t");
-//     console.log("u");
-//     console.log("l");
-// }
+function sayMyName (){
+    console.log("A");
+    console.log("t");
+    console.log("u");
+    console.log("l");
+}
 // sayMyName()
 
 // function addTwoNumbers (number1, number2){
